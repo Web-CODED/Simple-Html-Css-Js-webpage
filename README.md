@@ -1,4 +1,4 @@
-# Simple-Html-Css-Js-webpage
+# Simple-Html-Css-Js Responsive(all screen size) Webpage
 Just started doing my hand dirty, with HTML -CSS -JS with basic code setup
 
 ## Portfolio initial project
